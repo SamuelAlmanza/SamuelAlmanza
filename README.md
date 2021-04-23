@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelAlmanza
 - 👀 I’m interested in Software Development, Music, and Physical Wellness
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently learning React.js!
 - 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/samuelalmanza/ or email me @ salmanza9449@gmail.com
 
 <!---
