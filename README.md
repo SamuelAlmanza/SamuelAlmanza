@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelAlmanza
-- 👀 I’m interested in Software Development, Music, and Wellness
+- 👀 I’m interested in Web Development, Music, and Wellness
 - 🌱 I’m currently building MERN Stack Applications to hone my skills
 - 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/samuelalmanza/ or email me @ salmanza9449@gmail.com
 
