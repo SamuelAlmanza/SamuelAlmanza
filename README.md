@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development, Music, and Wellness
 - 🌱 I’m currently building MERN Stack Applications to hone my skills
 - 📖 View my portfolio here: https://samuelalmanza.github.io/portfolio/
+(Please note that due to changes with heroku, my denos are not stable. I am actively troubleshooting this issue!)
 - 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/samuelalmanza/ or email me @ salmanza9449@gmail.com
 
 - 🎵 I'm a huge fan of metal, jazz, and hip-hop
