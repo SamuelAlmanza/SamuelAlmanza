@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @SamuelAlmanza
-- 👀 I’m interested in Web Development, Music, and Wellness
-- 🌱 I’m currently building MERN Stack Applications to hone my skills
-- 📖 View my portfolio here: https://samuelalmanza.github.io/portfolio/
-(Please note that due to changes with heroku, my denos are not stable. I am actively troubleshooting this issue!)
+- 👀 I’m interested in Tech, Music, and Wellness
+- 🌱 I'm currently honing my data skills
 - 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/samuelalmanza/ or email me @ salmanza9449@gmail.com
 
 - 🎵 I'm a huge fan of metal, jazz, and hip-hop
-- 🎺 I play trumpet, guitar, piano, and drums... my neighbors love me
+- 🎺 I play trumpet and guitar... my neighbors love me
 - 🏞  I'm a curious soul and love adventure
 
 
